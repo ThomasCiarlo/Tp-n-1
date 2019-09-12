@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1557099822 source:c:\users\tomas ciarl\desktop\facu\ejercicios\tp-n°2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria.h"
+
+1557100424 c:\users\tomas ciarl\desktop\facu\ejercicios\tp-n°2\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1557147960 source:c:\users\tomas ciarl\desktop\facu\ejercicios\tp-n°2\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Libreria.h"
+
+1557153967 source:c:\users\tomas ciarl\desktop\facu\abm\tp-n-2\tp-n°2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria.h"
+
+1557153871 c:\users\tomas ciarl\desktop\facu\abm\tp-n-2\tp-n°2\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1557174133 source:c:\users\tomas ciarl\desktop\facu\abm\tp-n-2\tp-n°2\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Libreria.h"
+
+1557325223 source:c:\users\tomas ciarl\desktop\facu\tp-n-2\tp-n°2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria.h"
+
+1557325257 c:\users\tomas ciarl\desktop\facu\tp-n-2\tp-n°2\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1557494648 source:c:\users\tomas ciarl\desktop\facu\tp-n-2\tp-n°2\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Libreria.h"
+
